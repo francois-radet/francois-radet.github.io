@@ -10,17 +10,19 @@ remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
 # Site Settings
 lang: en-US
 title: Security architecture musings
-email: 
-description: "Your new default Jekyll theme"
-baseurl: 
+description: "A deep-dive look at security protocols, standards, tools and techniques"
 url: "https://francois-radet.github.io"
+email: contact@fradet.aleeas.com
+linkedin: francoisgerardradet
+twitter_username: 
+github_username: 
+baseurl: 
 #repository: "mmistakes/minimal-mistakes"
 author:
   name: Francois Radet
   twitter: 
   picture: 
-twitter_username: 
-github_username: 
+
 logo: /assets/icons/security_architecture_icon.png
 #google_analytics: UA-2011187-6
 disqus:

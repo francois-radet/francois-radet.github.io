@@ -1,17 +1,13 @@
 ---
+title: "About"
 layout: about
-title: About
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hello there!
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+My name is Francois Radet and I am an information security leader with broad experience in security architecture and operations, managing security and
+compliance programs, enterprise risk management, as well as software engineering and automation.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I hope you find the content on my blog useful, and I'd love to engage with you, so please feel free to reach out.
 
-
-[jekyll-organization]: https://github.com/jekyll
+Happy reading!
